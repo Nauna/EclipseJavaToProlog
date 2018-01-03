@@ -1,0 +1,17 @@
+
+******FILE RESULTS FROM PROLOG QUERY RUN FROM JAVA PROGRAM******
+***Prolog CompoundTerm result Return ***
+*result(String) = 
+com.parctechnologies.eclipse.CompoundTermImpl with [functor=, arity=2 arg(1)=com.parctechnologies.eclipse.CompoundTermImpl with [functor=grade arity=1 arg(1)=78.4] arg(2)=com.parctechnologies.eclipse.CompoundTermImpl with [functor=letter arity=2 arg(1)=com.parctechnologies.eclipse.Atom with [functor=b_plus] arg(2)=78.4]]
+*arg(1) = 
+com.parctechnologies.eclipse.CompoundTermImpl with [functor=grade arity=1 arg(1)=78.4]
+*arg(2) = 
+com.parctechnologies.eclipse.CompoundTermImpl with [functor=letter arity=2 arg(1)=com.parctechnologies.eclipse.Atom with [functor=b_plus] arg(2)=78.4]
+*functor(String) = 
+,
+*arity = 
+2
+***From Stream result Return: output ***
+
+grade(G) = 78.4
+letter(L,G) = b_plus
