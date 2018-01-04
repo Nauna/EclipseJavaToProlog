@@ -1,4 +1,4 @@
-#ElipseJava to Prolog
+# ElipseJava to Prolog #
 
 This code was built using Eclipse IDE for java. ALso uses ECLiPSe (Constraint Programmin System) which is a prolog engine.
 
